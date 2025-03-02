@@ -28,7 +28,7 @@ def encrypt(plaintext):
     encrypted = bytes([p ^ k for p, k in zip(plaintext_bytes, permuted_key)])
     return encrypted, key, indices
 
-text = "AQC is a great encryption method!"
+text = "ACX is a great encryption method!"
 encrypted, key, indices = encrypt(text)
 
 print("Original:", text)
