@@ -50,7 +50,7 @@ ACX is a highly secure encryption method that combines the principles of the One
 
 ## Example
 
-Below is an example of encrypting a message using the ACX encryption method. The original message is "ACX is a great encryption method!" and the encrypted output is shown in hexadecimal format.
+Below is an example of encrypting a message using the ACX encryption method. The original message is ``ACX is a great encryption method!`` and the encrypted output is shown in hexadecimal format.
 
 ```shell
 b'\x15\xb6\x99lr\xc8\x16\x90\x81r\x1dGi\xf8\x02\n\x98`"DF\x8d\xd8S\xca\x1aR\xdc,\xd4\xc6\x98\x1e'
